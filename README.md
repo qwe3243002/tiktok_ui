@@ -1,3 +1,12 @@
+# TikTok App UI
+
+![TikTok App UI](https://user-images.githubusercontent.com/16510597/88754800-d5728b80-d189-11ea-862d-be294c22da84.jpg)
+- 原版本[app.mobile.tiktok-app-ui](https://github.com/sopheamen007/app.mobile.tiktok-app-ui)为 Flutter2.x
+- 当前版本为 Flutter3.x 版本
+- cached_network_image : 图片缓存
+- loop_page_view : 无限滚动
+
+
 # tiktok_ui
 
 A new Flutter project.
